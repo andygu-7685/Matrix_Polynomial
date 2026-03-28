@@ -1,7 +1,7 @@
 
 # Polynomial List Double Node Library
 
-A C++ Personal Project for polynomial arithmetic operations using a doubly-linked list data structure with node-based term storage.
+A C++ Personal Project that build polynomial arithmetic operations from scratch using doubly-linked list data structure with node-based term storage.
 
 ## Overview
 
